@@ -1,2 +1,2 @@
 # ziggy
-food demo website
+food demo website using html, css and javascript
